@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\bin\Debug\net6.0\triangl.exe
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\bin\Debug\net6.0\triangl.deps.json
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\bin\Debug\net6.0\triangl.runtimeconfig.json
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\bin\Debug\net6.0\triangl.dll
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\bin\Debug\net6.0\triangl.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.dll
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\refint\triangl.dll
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\triangl.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\csh\lecture\triangl\obj\Debug\net6.0\ref\triangl.dll
