@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\bin\Debug\net6.0\fv3.exe
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\bin\Debug\net6.0\fv3.deps.json
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\bin\Debug\net6.0\fv3.runtimeconfig.json
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\bin\Debug\net6.0\fv3.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\bin\Debug\net6.0\fv3.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\refint\fv3.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\fv3.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\fv3\obj\Debug\net6.0\ref\fv3.dll

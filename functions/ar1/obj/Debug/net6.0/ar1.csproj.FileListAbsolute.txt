@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\bin\Debug\net6.0\ar1.exe
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\bin\Debug\net6.0\ar1.deps.json
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\bin\Debug\net6.0\ar1.runtimeconfig.json
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\bin\Debug\net6.0\ar1.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\bin\Debug\net6.0\ar1.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\refint\ar1.dll
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.pdb
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ar1.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\csh\lecture\functions\ar1\obj\Debug\net6.0\ref\ar1.dll
